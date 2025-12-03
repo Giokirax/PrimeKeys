@@ -41,7 +41,7 @@ PrimeKeys is a next-level input device: not just a 61-key array, but a hand-enve
 - [Final Enclosure](3D_Models/enclosure_final.stl) 	<!-- File to be added later -->
 
 ### PCB
-- ![PCB Hub](Photos/PCB1_schematic_easypcb.png)
+- ![PCB Hub](PCB/PCB1_schematic_easypcb.png)
 - [Schematic PDF](PCB/pcb1.jpg)
 
 ### Other Photos
